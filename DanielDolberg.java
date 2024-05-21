@@ -4,4 +4,4 @@ public class DanielDolberg{
             System.out.println("Daniel Dolberg is not a real person");
         }
     }
-}
+} 
